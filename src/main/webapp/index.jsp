@@ -11,7 +11,7 @@ request.getContextPath() 获取项目名称
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>功能入口</title>
+    <title>功能入口123</title>
     <%--这样src就能访问自定义开头前缀的路径了--%>
     <base href= <%=basePath%>/>
 </head>
